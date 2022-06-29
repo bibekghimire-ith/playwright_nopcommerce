@@ -1,0 +1,10 @@
+2022-06-28 21:13:06,664 - root - INFO - ******* TestLogin *******
+2022-06-28 21:13:06,664 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 21:13:08,399 - root - INFO - ******* Homepage Title test is passed *******
+2022-06-28 21:13:08,576 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 21:13:13,498 - root - INFO - ******* Login test is passed *******
+2022-06-28 21:17:06,322 - root - INFO - ******* TestLogin *******
+2022-06-28 21:17:06,725 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 21:17:24,392 - root - INFO - ******* Homepage Title test is passed *******
+2022-06-28 21:17:24,574 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 21:17:45,948 - root - INFO - ******* Login test is passed *******

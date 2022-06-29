@@ -1,0 +1,93 @@
+2022-06-28 21:23:28,069 - root - INFO - ******* TestLogin *******
+2022-06-28 21:23:28,140 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 21:23:31,917 - root - INFO - ******* Homepage Title test is passed *******
+2022-06-28 21:23:32,957 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 21:23:53,467 - root - INFO - ******* Login test is passed *******
+2022-06-28 21:43:16,933 - root - INFO - ******* TestLogin *******
+2022-06-28 21:43:16,934 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 21:43:37,921 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 21:43:38,597 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 21:43:41,092 - root - INFO - ******* Login test is passed *******
+2022-06-28 21:58:52,481 - root - INFO - ******* TestLogin *******
+2022-06-28 21:58:52,682 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 21:58:54,409 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 21:58:54,649 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 21:58:56,714 - root - INFO - ******* Login test is passed *******
+2022-06-28 21:59:51,508 - root - INFO - ******* TestLogin *******
+2022-06-28 21:59:51,508 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 21:59:52,103 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 21:59:52,302 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 21:59:55,495 - root - INFO - ******* Login test is passed *******
+2022-06-28 22:01:07,610 - root - INFO - ******* TestLogin *******
+2022-06-28 22:01:07,610 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 22:01:09,309 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 22:01:09,517 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 22:01:13,744 - root - INFO - ******* Login test is passed *******
+2022-06-28 22:01:56,456 - root - INFO - ******* TestLogin *******
+2022-06-28 22:01:56,847 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 22:02:01,603 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 22:02:11,204 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 22:02:14,924 - root - INFO - ******* Login test is passed *******
+2022-06-28 22:05:19,274 - root - INFO - ******* TestLogin *******
+2022-06-28 22:05:19,276 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 22:05:21,205 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 22:05:27,036 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 22:05:29,912 - root - INFO - ******* Login test is passed *******
+2022-06-28 22:06:26,596 - root - INFO - ******* TestLogin *******
+2022-06-28 22:06:26,598 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 22:06:44,017 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 22:06:44,570 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 22:06:46,937 - root - INFO - ******* Login test is passed *******
+2022-06-28 22:07:02,129 - root - INFO - ******* TestLogin *******
+2022-06-28 22:07:02,129 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 22:07:03,824 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 22:07:04,240 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 22:07:06,507 - root - INFO - ******* Login test is passed *******
+2022-06-28 22:24:23,761 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 22:24:23,785 - root - INFO - ******* TestLogin *******
+2022-06-28 22:24:23,785 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 22:24:41,666 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 22:24:45,378 - root - INFO - ******* Login test is passed *******
+2022-06-28 22:35:57,872 - root - INFO - ******* TestLogin *******
+2022-06-28 22:35:57,872 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-28 22:35:59,867 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-28 22:36:00,358 - root - INFO - ******* Verifing Login Test *******
+2022-06-28 22:36:02,554 - root - INFO - ******* Login test is passed *******
+2022-06-29 07:54:49,441 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 07:54:49,441 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 07:54:49,519 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 07:54:49,519 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 07:54:53,415 - root - INFO - ******* TestLogin *******
+2022-06-29 07:54:53,415 - root - INFO - ******* TestLogin *******
+2022-06-29 07:54:53,415 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-29 07:54:53,415 - root - INFO - ******* Verifing Homepage Title *******
+2022-06-29 07:54:55,354 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-29 07:54:55,354 - root - ERROR - ******* Homepage Title test is failed ********
+2022-06-29 07:54:56,038 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 07:54:56,038 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 07:54:58,648 - root - INFO - ******* Login test is passed *******
+2022-06-29 07:54:58,648 - root - INFO - ******* Login test is passed *******
+2022-06-29 07:59:04,076 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 07:59:04,076 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:00:37,574 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 08:00:37,574 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:00:41,219 - root - INFO - ****** Test Passed ******
+2022-06-29 08:01:26,525 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 08:01:26,526 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:01:30,240 - root - INFO - ****** Test Passed ******
+2022-06-29 08:03:04,999 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 08:03:05,010 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:03:08,543 - root - INFO - ****** Test Passed ******
+2022-06-29 08:03:54,470 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 08:03:54,471 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:03:57,182 - root - INFO - ****** Test Passed ******
+2022-06-29 08:03:58,740 - root - INFO - ******* Test_DDT_Login is passed ********
+2022-06-29 08:06:37,345 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 08:06:37,346 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:07:21,476 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 08:07:21,478 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:07:25,730 - root - INFO - ****** Test Passed ******
+2022-06-29 08:09:30,975 - root - INFO - ********* Test_DDT_Login *******
+2022-06-29 08:09:30,976 - root - INFO - ******* Verifing Login Test *******
+2022-06-29 08:09:33,570 - root - INFO - ****** Test Passed ******
+2022-06-29 08:09:53,502 - root - INFO - ****** Test Passed ******
