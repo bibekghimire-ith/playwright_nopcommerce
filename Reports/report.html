@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 29-Jun-2022 at 07:54:59 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 02-Jul-2022 at 15:50:14 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -257,13 +257,13 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Linux-5.15.0-kali2-amd64-x86_64-with-glibc2.33</td></tr>
       <tr>
         <td>Plugins</td>
-        <td>{"base-url": "2.0.0", "forked": "1.4.0", "html": "3.1.1", "metadata": "2.0.1", "playwright": "0.3.0", "xdist": "2.5.0"}</td></tr>
+        <td>{"asyncio": "0.18.3", "base-url": "2.0.0", "forked": "1.4.0", "html": "3.1.1", "metadata": "2.0.1", "playwright": "0.3.0", "xdist": "2.5.0"}</td></tr>
       <tr>
         <td>Python</td>
         <td>3.10.4</td></tr></table>
     <h2>Summary</h2>
-    <p>3 tests ran in 40.57 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">2 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>1 tests ran in 47.84 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -274,35 +274,12 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="failed results-table-row">
-        <tr>
-          <td class="col-result">Failed</td>
-          <td class="col-name">testCases/test_ddt_login.py::Test_DDT_Login::test_login[firefox]</td>
-          <td class="col-duration">32.39</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log">self = &lt;testCases.test_ddt_login.Test_DDT_Login object at 0x7f5492f209a0&gt;<br/>page = &lt;Page url=&#x27;https://admin-demo.nopcommerce.com/login&#x27;&gt;<br/><br/>    def test_login(self,page):<br/>    	self.logger.info(&quot;********* Test_DDT_Login *******&quot;)<br/>    	self.logger.info(&quot;******* Verifing Login Test *******&quot;)<br/>    	page.goto(self.baseURL)<br/>    	# self.lp.navigate()<br/>    	self.lp = LoginPage(page)<br/>    <br/>    	self.rows = ExcelUtils.getRowCount(self.path,&#x27;Sheet1&#x27;)<br/>    <br/>    	status = []<br/>    	for row in range(2, self.rows+1):<br/>&gt;   		self.username = ExcelUtils.readData(self.path,&#x27;Sheet1&#x27;,row,1)<br/><br/>testCases/test_ddt_login.py:28: <br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br/><br/>file = &#x27;./TestData/LoginData.xlsx&#x27;, sheetName = &#x27;Sheet1&#x27;, rownum = 2, colnum = 1<br/><br/>    def readData(file, sheetName, rownum, colnum):<br/>    	workbook = openpyxl.load_workbook(file)<br/>    	sheet = workbook[sheetName]<br/>&gt;   	return sheet.cell(row=rownum, col=colnum).value<br/><span class="error">E    TypeError: Worksheet.cell() got an unexpected keyword argument &#x27;col&#x27;</span><br/><br/>utilities/ExcelUtils.py:16: TypeError<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_ddt_login.py:18 ********* Test_DDT_Login *******
-INFO     root:test_ddt_login.py:19 ******* Verifing Login Test *******<br/></div></td></tr></tbody>
-      <tbody class="failed results-table-row">
-        <tr>
-          <td class="col-result">Failed</td>
-          <td class="col-name">testCases/test_login.py::TestLogin::test_homePageTitle[firefox]</td>
-          <td class="col-duration">3.27</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log">self = &lt;testCases.test_login.TestLogin object at 0x7f5492f2fbb0&gt;<br/>page = &lt;Page url=&#x27;https://admin-demo.nopcommerce.com/login&#x27;&gt;<br/><br/>    def test_homePageTitle(self,page):<br/>    	self.logger.info(&quot;******* TestLogin *******&quot;)<br/>    	self.logger.info(&quot;******* Verifing Homepage Title *******&quot;)<br/>    <br/>    	page.goto(self.baseURL)<br/>    	act_title = page.locator(&#x27;title&#x27;).inner_text()<br/>    	if act_title == &quot;Your store. Login12&quot;:<br/>    		self.logger.info(&quot;******* Homepage Title test is passed *******&quot;)<br/>    		assert True<br/>    	else:<br/>    		self.logger.error(&quot;******* Homepage Title test is failed ********&quot;)<br/>    		page.screenshot(path=&quot;./Screenshots/test_homePageTitle.png&quot;, full_page=True)<br/>&gt;   		assert False<br/><span class="error">E     assert False</span><br/><br/>testCases/test_login.py:34: AssertionError<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:23 ******* TestLogin *******
-INFO     root:test_login.py:24 ******* Verifing Homepage Title *******
-ERROR    root:test_login.py:32 ******* Homepage Title test is failed ********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testCases/test_login.py::TestLogin::test_login[firefox]</td>
-          <td class="col-duration">4.10</td>
+          <td class="col-name">testCases/test_AddCustomers.py::TestAddCustomer::test_addCustomer[firefox]</td>
+          <td class="col-duration">47.81</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> ------------------------------Captured stdout call------------------------------ <br/>Dashboard / nopCommerce administration
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:38 ******* Verifing Login Test *******
-INFO     root:test_login.py:49 ******* Login test is passed *******<br/></div></td></tr></tbody></table></body></html>
+            <div class="empty log">No log output captured.</div></td></tr></tbody></table></body></html>

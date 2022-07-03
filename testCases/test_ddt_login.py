@@ -5,6 +5,10 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 from utilities import ExcelUtils
 
+# from playwright.async_api import async_playwright
+# import asyncio
+
+
 class Test_DDT_Login:
 	baseURL = ReadConfig.getBaseURL()
 	path = "./TestData/LoginData.xlsx"
@@ -14,6 +18,7 @@ class Test_DDT_Login:
 
 	status = []
 	# Test for valid login
+	# @pytest.mark.asyncio
 	def test_login(self,page):
 		self.logger.info("********* Test_DDT_Login *******")
 		self.logger.info("******* Verifing Login Test *******")
@@ -33,6 +38,8 @@ class Test_DDT_Login:
 			self.lp.setPassword(self.password)
 			self.lp.clickLogin()			
 
+			print(self.username,self.password)
+
 			act_title = page.locator('title').inner_text()
 			exp_title = "Dashboard / nopCommerce administration"
 
@@ -48,12 +55,16 @@ class Test_DDT_Login:
 			elif act_title != exp_title: # Failed Login
 				if self.exp == "Pass": 
 					self.logger.info('****** Test Failed ******')
-					self.lp.clickLogout()
+					# self.lp.clickLogout()
 					self.status.append('Fail')
+					page.reload()
+					# self.lp.navigate()
 				elif self.exp == "Fail":	
 					self.logger.info('****** Test Passed ******')
-					self.lp.clickLogout()
+					# self.lp.clickLogout()
 					self.status.append('Pass')
+					# self.lp.navigate()
+					page.reload()
 
 		if "Fail" not in self.status:
 			self.logger.info("******* Test_DDT_Login is passed ********")

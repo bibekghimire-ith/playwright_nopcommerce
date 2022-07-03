@@ -54,5 +54,7 @@ class TestLogin:
 			page.screenshot(path="./Screenshots/test_login.png", full_page=True)
 			self.logger.error("******* Login test is failed ********")
 			assert False
+		# page.wait_for_selector("xpath=//a[@clas='nav-link'][@href='/Admin/Customer/List']").click()
+		# time.sleep(5)
 
 		
