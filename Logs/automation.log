@@ -561,3 +561,256 @@ The new customer has been added successfully.
 2022-07-02 15:49:49,508 - root - INFO - ******* Successful Login *******
 2022-07-02 15:50:13,793 - root - INFO - ***** Customer Added Successfully *****
 2022-07-02 15:50:13,793 - root - INFO - ******** Test Passed ********
+2022-07-03 14:32:19,408 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:32:48,602 - root - INFO - ***** Login to the System ******
+2022-07-03 14:34:03,780 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:34:08,119 - root - INFO - ***** Login to the System ******
+2022-07-03 14:35:17,336 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:35:20,207 - root - INFO - ***** Login to the System ******
+2022-07-03 14:36:39,336 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:36:42,198 - root - INFO - ***** Login to the System ******
+2022-07-03 14:37:16,840 - root - INFO - ***** Search Page *****
+2022-07-03 14:37:16,888 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:38:04,680 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:38:09,395 - root - INFO - ***** Login to the System ******
+2022-07-03 14:38:27,050 - root - INFO - ***** Search Page *****
+2022-07-03 14:38:27,050 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:40:12,802 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:40:16,777 - root - INFO - ***** Login to the System ******
+2022-07-03 14:40:51,351 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:40:54,639 - root - INFO - ***** Login to the System ******
+2022-07-03 14:41:02,802 - root - INFO - ***** Search Page *****
+2022-07-03 14:41:02,802 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:41:41,425 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:41:44,805 - root - INFO - ***** Login to the System ******
+2022-07-03 14:41:57,258 - root - INFO - ***** Search Page *****
+2022-07-03 14:41:57,259 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:43:51,686 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:43:56,922 - root - INFO - ***** Login to the System ******
+2022-07-03 14:44:11,741 - root - INFO - ***** Search Page *****
+2022-07-03 14:44:11,741 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:44:59,666 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:45:04,496 - root - INFO - ***** Login to the System ******
+2022-07-03 14:45:25,812 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:45:28,839 - root - INFO - ***** Login to the System ******
+2022-07-03 14:45:39,076 - root - INFO - ***** Search Page *****
+2022-07-03 14:45:39,265 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:45:47,312 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:45:50,640 - root - INFO - ***** Login to the System ******
+2022-07-03 14:46:01,383 - root - INFO - ***** Search Page *****
+2022-07-03 14:46:01,383 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:46:31,386 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:46:36,197 - root - INFO - ***** Login to the System ******
+2022-07-03 14:46:45,748 - root - INFO - ***** Search Page *****
+2022-07-03 14:46:45,749 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:46:57,128 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:47:02,049 - root - INFO - ***** Login to the System ******
+2022-07-03 14:47:11,427 - root - INFO - ***** Search Page *****
+2022-07-03 14:47:11,459 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-03 14:47:52,864 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:47:57,837 - root - INFO - ***** Login to the System ******
+2022-07-03 14:48:29,984 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-03 14:48:35,196 - root - INFO - ***** Login to the System ******
+2022-07-03 14:48:50,202 - root - INFO - ***** Search Page *****
+2022-07-03 14:48:50,202 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 06:59:10,792 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 06:59:28,965 - root - INFO - ***** Login to the System ******
+2022-07-04 07:00:31,753 - root - INFO - ***** Login to the System ******
+2022-07-04 07:00:40,651 - root - INFO - ***** Search Page *****
+2022-07-04 07:00:40,654 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:01:38,278 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:01:44,660 - root - INFO - ***** Login to the System ******
+2022-07-04 07:01:53,283 - root - INFO - ***** Search Page *****
+2022-07-04 07:01:53,283 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:01:57,700 - root - INFO - ***** Login to the System ******
+2022-07-04 07:07:51,744 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:08:15,313 - root - INFO - ***** Login to the System ******
+2022-07-04 07:08:46,739 - root - INFO - ***** Login to the System ******
+2022-07-04 07:11:55,685 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:11:59,598 - root - INFO - ***** Login to the System ******
+2022-07-04 07:13:00,204 - root - INFO - ***** Login to the System ******
+2022-07-04 07:13:24,059 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:13:28,528 - root - INFO - ***** Login to the System ******
+2022-07-04 07:13:37,010 - root - INFO - ***** Search Page *****
+2022-07-04 07:13:37,011 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:13:39,745 - root - INFO - ***** Login to the System ******
+2022-07-04 07:13:48,072 - root - INFO - ***** Search Page *****
+2022-07-04 07:13:48,073 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:15:14,553 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:15:17,960 - root - INFO - ***** Login to the System ******
+2022-07-04 07:15:43,831 - root - INFO - ***** Search Page *****
+2022-07-04 07:15:43,831 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:15:47,193 - root - INFO - ***** Login to the System ******
+2022-07-04 07:15:55,398 - root - INFO - ***** Search Page *****
+2022-07-04 07:15:55,398 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:19:45,232 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:19:51,330 - root - INFO - ***** Login to the System ******
+2022-07-04 07:20:06,394 - root - INFO - ***** Search Page *****
+2022-07-04 07:20:06,409 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:20:20,454 - root - INFO - ***** Login to the System ******
+2022-07-04 07:20:47,147 - root - INFO - ***** Search Page *****
+2022-07-04 07:20:47,147 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:22:17,904 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:22:25,274 - root - INFO - ***** Login to the System ******
+2022-07-04 07:22:34,857 - root - INFO - ***** Search Page *****
+2022-07-04 07:22:34,857 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:22:36,539 - root - INFO - ***** Login to the System ******
+2022-07-04 07:22:44,559 - root - INFO - ***** Search Page *****
+2022-07-04 07:22:44,559 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:25:02,184 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:25:05,500 - root - INFO - ***** Login to the System ******
+2022-07-04 07:25:30,881 - root - INFO - ***** Search Page *****
+2022-07-04 07:25:30,882 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:25:32,638 - root - INFO - ***** Login to the System ******
+2022-07-04 07:25:41,895 - root - INFO - ***** Search Page *****
+2022-07-04 07:25:41,895 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:27:23,777 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:27:27,165 - root - INFO - ***** Login to the System ******
+2022-07-04 07:27:36,574 - root - INFO - ***** Search Page *****
+2022-07-04 07:27:36,576 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:27:42,557 - root - INFO - ***** Login to the System ******
+2022-07-04 07:27:50,424 - root - INFO - ***** Search Page *****
+2022-07-04 07:27:50,424 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:29:24,688 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:29:28,235 - root - INFO - ***** Login to the System ******
+2022-07-04 07:29:36,537 - root - INFO - ***** Search Page *****
+2022-07-04 07:29:36,537 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:29:38,586 - root - INFO - ***** Login to the System ******
+2022-07-04 07:29:46,472 - root - INFO - ***** Search Page *****
+2022-07-04 07:29:46,472 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:32:53,867 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:32:56,778 - root - INFO - ***** Login to the System ******
+2022-07-04 07:33:29,814 - root - INFO - ***** Login to the System ******
+2022-07-04 07:33:48,645 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:33:51,933 - root - INFO - ***** Login to the System ******
+2022-07-04 07:34:13,764 - root - INFO - ***** Login to the System ******
+2022-07-04 07:35:04,526 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:35:08,894 - root - INFO - ***** Login to the System ******
+2022-07-04 07:35:18,331 - root - INFO - ***** Search Page *****
+2022-07-04 07:35:18,331 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:35:20,310 - root - INFO - ***** Login to the System ******
+2022-07-04 07:35:45,093 - root - INFO - ***** Search Page *****
+2022-07-04 07:35:45,094 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:38:22,944 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:38:26,224 - root - INFO - ***** Login to the System ******
+2022-07-04 07:38:37,229 - root - INFO - ***** Search Page *****
+2022-07-04 07:38:37,230 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:38:41,873 - root - INFO - ***** Login to the System ******
+2022-07-04 07:38:51,230 - root - INFO - ***** Search Page *****
+2022-07-04 07:38:51,230 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 07:40:09,051 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:40:12,631 - root - INFO - ***** Login to the System ******
+2022-07-04 07:40:21,886 - root - INFO - ***** Search Page *****
+2022-07-04 07:40:21,886 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:40:24,437 - root - INFO - ***** Login to the System ******
+2022-07-04 07:43:55,203 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 07:43:58,950 - root - INFO - ***** Login to the System ******
+2022-07-04 07:44:14,942 - root - INFO - ***** Search Page *****
+2022-07-04 07:44:14,942 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 07:44:19,763 - root - INFO - ***** Login to the System ******
+2022-07-04 07:44:33,862 - root - INFO - ***** Search Page *****
+2022-07-04 07:44:33,863 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 20:51:28,904 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 20:51:47,217 - root - INFO - ***** Login to the System ******
+2022-07-04 20:52:29,587 - root - INFO - ***** Login to the System ******
+2022-07-04 20:52:39,127 - root - INFO - ***** Search Page *****
+2022-07-04 20:52:39,127 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 20:54:25,525 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 20:54:29,446 - root - INFO - ***** Login to the System ******
+2022-07-04 20:55:01,185 - root - INFO - ***** Login to the System ******
+2022-07-04 20:55:19,456 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 20:55:22,181 - root - INFO - ***** Login to the System ******
+2022-07-04 20:55:31,429 - root - INFO - ***** Search Page *****
+2022-07-04 20:55:31,429 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 20:55:48,169 - root - INFO - ***** Login to the System ******
+2022-07-04 20:55:56,157 - root - INFO - ***** Search Page *****
+2022-07-04 20:55:56,157 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 20:58:06,417 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 20:58:09,148 - root - INFO - ***** Login to the System ******
+2022-07-04 20:58:21,403 - root - INFO - ***** Search Page *****
+2022-07-04 20:58:21,403 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 20:58:22,917 - root - INFO - ***** Login to the System ******
+2022-07-04 21:00:30,934 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:00:33,622 - root - INFO - ***** Login to the System ******
+2022-07-04 21:01:00,227 - root - INFO - ***** Search Page *****
+2022-07-04 21:01:00,227 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:01:01,673 - root - INFO - ***** Login to the System ******
+2022-07-04 21:01:10,311 - root - INFO - ***** Search Page *****
+2022-07-04 21:01:10,312 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:06:59,368 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:07:10,956 - root - INFO - ***** Login to the System ******
+2022-07-04 21:07:42,030 - root - INFO - ***** Login to the System ******
+2022-07-04 21:07:54,372 - root - INFO - ***** Search Page *****
+2022-07-04 21:07:54,372 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:08:31,612 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:08:35,787 - root - INFO - ***** Login to the System ******
+2022-07-04 21:08:48,345 - root - INFO - ***** Search Page *****
+2022-07-04 21:08:48,351 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:08:52,865 - root - INFO - ***** Login to the System ******
+2022-07-04 21:09:14,603 - root - INFO - ***** Search Page *****
+2022-07-04 21:09:14,604 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:10:07,551 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:10:10,187 - root - INFO - ***** Login to the System ******
+2022-07-04 21:10:18,336 - root - INFO - ***** Search Page *****
+2022-07-04 21:10:18,337 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:10:22,795 - root - INFO - ***** Login to the System ******
+2022-07-04 21:10:30,969 - root - INFO - ***** Search Page *****
+2022-07-04 21:10:30,969 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:10:57,766 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:11:00,559 - root - INFO - ***** Login to the System ******
+2022-07-04 21:11:25,978 - root - INFO - ***** Search Page *****
+2022-07-04 21:11:25,979 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:11:29,945 - root - INFO - ***** Login to the System ******
+2022-07-04 21:11:37,840 - root - INFO - ***** Search Page *****
+2022-07-04 21:11:37,840 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:14:56,268 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:14:58,871 - root - INFO - ***** Login to the System ******
+2022-07-04 21:15:08,125 - root - INFO - ***** Search Page *****
+2022-07-04 21:15:08,125 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:15:12,633 - root - INFO - ***** Login to the System ******
+2022-07-04 21:15:38,387 - root - INFO - ***** Search Page *****
+2022-07-04 21:15:38,388 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:47:42,280 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:48:01,670 - root - INFO - ***** Login to the System ******
+2022-07-04 21:48:14,336 - root - INFO - ***** Search Page *****
+2022-07-04 21:48:14,336 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:48:26,838 - root - INFO - ***** Login to the System ******
+2022-07-04 21:51:59,947 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:52:09,389 - root - INFO - ***** Login to the System ******
+2022-07-04 21:52:23,751 - root - INFO - ***** Search Page *****
+2022-07-04 21:52:23,752 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:52:30,502 - root - INFO - ******** test_searchCustomerByEmail Passed ********
+2022-07-04 21:52:31,667 - root - INFO - ***** Login to the System ******
+2022-07-04 21:52:57,150 - root - INFO - ***** Search Page *****
+2022-07-04 21:52:57,189 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:54:11,206 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:54:14,304 - root - INFO - ***** Login to the System ******
+2022-07-04 21:54:46,124 - root - INFO - ***** Login to the System ******
+2022-07-04 21:55:28,326 - root - INFO - ***** Search Page *****
+2022-07-04 21:55:28,334 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:55:56,744 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:56:03,203 - root - INFO - ***** Login to the System ******
+2022-07-04 21:56:16,089 - root - INFO - ***** Search Page *****
+2022-07-04 21:56:16,090 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:56:20,758 - root - INFO - ******** test_searchCustomerByEmail Passed ********
+2022-07-04 21:56:21,209 - root - INFO - ***** Login to the System ******
+2022-07-04 21:56:30,810 - root - INFO - ***** Search Page *****
+2022-07-04 21:56:30,811 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 21:57:59,204 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 21:58:01,891 - root - INFO - ***** Login to the System ******
+2022-07-04 21:58:09,969 - root - INFO - ***** Search Page *****
+2022-07-04 21:58:09,969 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 21:58:14,004 - root - INFO - ******** test_searchCustomerByEmail Passed ********
+2022-07-04 21:58:14,453 - root - INFO - ***** Login to the System ******
+2022-07-04 21:58:22,358 - root - INFO - ***** Search Page *****
+2022-07-04 21:58:22,358 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 22:00:05,845 - root - INFO - ******* Starting Search Customer Test *******
+2022-07-04 22:00:08,466 - root - INFO - ***** Login to the System ******
+2022-07-04 22:00:17,585 - root - INFO - ***** Search Page *****
+2022-07-04 22:00:17,585 - root - INFO - ******* Starting test_searchCustomerByEmail *******
+2022-07-04 22:00:21,219 - root - INFO - ******** test_searchCustomerByEmail Passed ********
+2022-07-04 22:00:21,637 - root - INFO - ***** Login to the System ******
+2022-07-04 22:00:29,549 - root - INFO - ***** Search Page *****
+2022-07-04 22:00:29,550 - root - INFO - ******* Starting test_searchCustomerByName *******
+2022-07-04 22:00:34,102 - root - INFO - ******** test_searchCustomerByName Passed ********
+2022-07-04 22:00:34,103 - root - INFO - ******* Completed test_searchCustomerByName *******
